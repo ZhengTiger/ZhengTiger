@@ -17,7 +17,7 @@ I am a Ph.D. student at Huazhong Agricultural University (HZAU) in China. My res
 
 ## 📫 Contact me
 
-- ✉️ Email: [tigerzheng1998@gmail.com](tigerzheng1998@gmail.com)
+- ✉️ Email: [tiger.zheng@foxmail.com](tiger.zheng@foxmail.com)
 - 💬 WeChat: [TigerZ](https://open.weixin.qq.com/qr/code?username=gh_55ff0104c230)
 - 🏠 Personal website: [zhenghu159.github.io](https://zhenghu159.github.io/)
 
