@@ -50,7 +50,7 @@ I am a Ph.D. student at Huazhong Agricultural University (HZAU) in China. My res
 
 <!-- GitHub 数据统计 -->
 <div align="center" >
-<img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZhengTiger&theme=cobalt&count_private=true&show_icons=true" />
-<img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZhengTiger&&theme=cobalt&count_private=true&show_icons=true" /><br>
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=ZhengTiger&theme=cobalt&count_private=true&show_icons=true" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengTiger&&theme=cobalt&count_private=true&show_icons=true" /><br>
 </div>
 
