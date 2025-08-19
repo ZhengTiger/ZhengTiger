@@ -47,10 +47,9 @@ I am a Ph.D. student at Huazhong Agricultural University (HZAU) in China. My res
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white">
 </p>
 
-
 <!-- GitHub 数据统计 -->
-<div align="center" >
+<div align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ZhengTiger&theme=cobalt&count_private=true&show_icons=true" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengTiger&&theme=cobalt&count_private=true&show_icons=true&hide=javascript,html,css,jupyter%20notebook,tex" /><br>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengTiger&&theme=cobalt&count_private=true&show_icons=true&hide=javascript,html,css,jupyter%20notebook,tex" />
 </div>
 
