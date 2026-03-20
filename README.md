@@ -1,10 +1,14 @@
 ## Hi there 👋
 
-This is Hu Zheng, a bioinformatics researcher.
+This is Hu Zheng, a bioinformatics researcher. **I am now actively seeking a postdoctoral position, please contact me at <tiger.zheng@foxmail.com> if you’re interested.**
 
 ## 👨‍🎓 About me
 
-I am a Ph.D. student at Huazhong Agricultural University (HZAU) in China. My research interests are bioinformatics data analysis and related software development. Specifically, my current research focuses on single-cell RNA sequencing (scRNAseq) and Spatial transcriptomics (ST) data. In addition, my research involves neurobiology, particularly mapping neural circuits through high-throughput sequencing.
+I am a Ph.D. student at Huazhong Agricultural University (HZAU) in China. My research interests are bioinformatics data analysis and related software development. Specifically, my current research focuses on: 
+
+1. single-cell RNA sequencing (scRNAseq) and Spatial transcriptomics (ST) data. 
+2. Neurobiology, particularly mapping neural circuits through high-throughput sequencing.
+3. Bioinformatics software development.
 
 ## 📫 Contact me
 
